@@ -1,10 +1,11 @@
 function SideBar() {
     return(
-        <section>
-            <div class="SideBar">
-                                
-            </div>
-        </section>
+        
+        <span className="SideBar">
+            <button className="homeButton">Home</button>
+            <button className="aboutButton">About</button>                                
+        </span>
+        
     )
 }
 

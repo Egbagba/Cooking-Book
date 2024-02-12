@@ -1,7 +1,7 @@
 .navbar{
   top: 0;
   position: fixed;
-  background-color: greenyellow;
+  /* background-color: greenyellow; */
   display: flex;
   justify-content: center;
   width: 100vw;
@@ -10,17 +10,24 @@
 }
 
 .navbarText{
-  color: whitesmoke;
+  color: black;
   font-size: 50px;
   margin-right: 25px;
   position: center;
 }
 
 /* Button */
-.navbarButton{
-  position: left;
+
+.homeButton{
+  position: right;
   size: 500px;
   padding: 15px 32px;
   justify-content: flex-end;
   align-items: right;
+  background-color: red;
+}
+
+.aboutButton {
+  position: bottom ;
+  flex-direction: column;
 }

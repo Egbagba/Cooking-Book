@@ -10,6 +10,7 @@ function Home() {
             <NavBar />
             <Footer />
             <SideBar />
+            
         </div>
         
     )
