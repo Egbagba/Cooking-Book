@@ -1,13 +1,10 @@
-function NavBar() {
-    return (
-        
-        <div className="navbar">
-            
-            <h1 className="navbarText">Let's Cook</h1>
+function Navbar () {
 
+    return(
+        <div className="navbar" >
+            <h1 className="navbarText">Cooking Book</h1>
         </div>
-        
     )
 }
 
-export default NavBar ;
+export default Navbar

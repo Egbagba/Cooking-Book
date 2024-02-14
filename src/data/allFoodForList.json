@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Butter Cook",
+        "items": ["onion ,", " garlic ,", " butter ,", " cream ,", " garlic ,", " Chicken"],
+        "recipe": ["garam masala ,", " salt ,", " termanid"]
+    },
+
+    {
+        "id": 2,
+        "name": "Jollof fries",
+        "items": ["oil ,"," butter ,"," onions ,"," red peppers ,"," Chicken"] ,
+        "recipe": ["Maggi cubes ,"," salt ,"," bayleaves ,"," ginger ,"," curry powder ,"," thyme leaves"]
+    }
+]
+

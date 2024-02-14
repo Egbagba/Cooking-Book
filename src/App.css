@@ -1,33 +1,147 @@
-.navbar{
-  top: 0;
-  position: fixed;
-  /* background-color: greenyellow; */
-  display: flex;
-  justify-content: center;
+
+
+.App {
   width: 100vw;
-  height: 70px;
-  text-align: center;
+  display: flex;
+  background-image: url(./assets/images/imagebg.jpeg);
+  background-attachment: fixed;
+  background-size: cover;
 }
 
-.navbarText{
-  color: black;
-  font-size: 50px;
-  margin-right: 25px;
-  position: center;
-}
-
-/* Button */
-
-.homeButton{
-  position: right;
-  size: 500px;
-  padding: 15px 32px;
+  .about {
+    height:700px;
+  width: 100vw;
+  display: flex;
+  /* background-image: url(./assets/images/imagebg.jpeg);
+  background-attachment: fixed;
+  background-size: cover; */
   justify-content: flex-end;
-  align-items: right;
-  background-color: red;
+  align-items: center;
+  
+}  
+
+.aboutIn {
+border-style: solid;
+border-width: 4px;
+border-color: red;
+margin-right: 25px;
+padding: 10px;
+color:black;
+width: 418.27px;
 }
 
-.aboutButton {
-  position: bottom ;
+.navbar {
+  background-color: red;
+  height: 70px;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  z-index: 1;
+}
+
+.navbarText {
+  color: rgb(255, 255, 255);
+  margin-right: 25px;
+  position: fixed;
+}
+
+.footer {
+  background-color:rgb(255, 0, 0);
+  height: 40px;
+  width: 100vw;
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+}
+
+.footerLink {
+  color: rgb(255, 255, 255);
+  margin-left: 5px;
+}
+
+.sideBar {
+  display: flex;
   flex-direction: column;
+  gap: 20px;
+  background-color: rgba(255, 0, 0, 0.384);
+  width: 150px;
+  color: black;
+  margin-right: auto;
+}
+
+.homeLink {
+  margin-top: 100px;
+  color: white;
+  font-weight: bold;
+  margin-left: 5px;
+  position: fixed;
+}
+
+.aboutLink {
+  margin-top: 150px;
+  color: white;
+  margin-left: 5px;
+  font-weight: bold;
+  position: fixed;
+} 
+
+.addLink {
+  margin-top: 150px;
+  color: white;
+  margin-left: 5px;
+  font-weight: bold;
+  position: fixed;
+}
+
+.listElement {
+  display: flex;
+  border-style: solid;
+  border-width: 4px;
+  border-color: red;
+  width: 600px;
+  margin: 30px;
+}
+
+.deleteBtn {
+  width: 600px;
+  background-color: red;
+  position: sticky;
+  justify-content: center;
+  border-radius: 0;
+}
+
+.foodList {
+  margin-top: 80px;
+  color: black;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.OopsBox {
+  color:black;
+  padding-top: 40vw;
+  padding-bottom: 40vw;
+}
+
+.yesBox {
+  height:700px;
+  display: flex;
+  align-items: center;
+  /* margin-right: 25px; */
+}
+
+.yesBut {
+  display: flex;
+  color: white;
+  padding-right: 25px;
+  padding-left: 25px;
+  background-color: red;
+  justify-content: right;
+  font-size: 56.320px;
+  font-weight: bold;
 }

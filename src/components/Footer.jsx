@@ -1,11 +1,9 @@
-function Footer() {
-    return(
-        <section>
-            <div class="footer">
-                <p></p>                         
-            </div>
-        </section>
+function Footer () {
+    return (
+        <div className= "footer">
+            <a className="footerLink" > Find this on Github</a>
+        </div>
     )
 }
 
-export default Footer ;
+export default Footer
