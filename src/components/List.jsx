@@ -36,15 +36,6 @@ function List() {
   return (
     <div className="foodList">
 
-      {/* <div>
-        <Steps food = {food} stepsItem={showSteps}/>
-      </div> */}
-      {foodItems.map((food) => (
-        <div key={food.id}>
-          <FoodForList food={food} deleteItem={deleteItem}/>
-        </div>
-        
-      ))}
       <div className="form">
         <input
           type="text"
@@ -74,8 +65,17 @@ function List() {
           onChange={(e) => setStepsInput(e.target.value)}
           placeholder="Enter ingredients"
         />
-        <button onClick={addItem}>Add Food</button>
+        <button className="addButton" onClick={addItem}>Add Food</button>
       </div>
+
+
+      {foodItems.map((food) => (
+        <div key={food.id}>
+          <FoodForList food={food} deleteItem={deleteItem}/>
+        </div>
+        
+      ))}
+      
       
     </div>
   );

@@ -1,17 +1,18 @@
 import { Link } from "react-router-dom"
-import List from "./List"
+// import List from "./List"
 
 function Homepage() {
 
     return (
-        // <Link> </Link>
-        <div className="yesBox">
-            
-            <span className="yesBut">
-            let's Cook
-            </span>
-            
-        </div>
+        <Link to="/List"> 
+            <div className="yesBox">
+                
+                <span className="yesBut">
+                List to Foods
+                </span>
+                
+            </div>
+        </Link>
     )
 
 }

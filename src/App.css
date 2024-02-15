@@ -3,7 +3,7 @@
 .App {
   width: 100vw;
   display: flex;
-  background-image: url(./assets/images/imagebg.jpeg);
+  background-image: url(./images/picture.jpg);
   background-attachment: fixed;
   background-size: cover;
 }
@@ -12,26 +12,23 @@
     height:700px;
   width: 100vw;
   display: flex;
-  /* background-image: url(./assets/images/imagebg.jpeg);
-  background-attachment: fixed;
-  background-size: cover; */
   justify-content: flex-end;
   align-items: center;
-  
 }  
 
 .aboutIn {
 border-style: solid;
 border-width: 4px;
-border-color: red;
+border-color: rgb(255, 200, 0);
 margin-right: 25px;
 padding: 10px;
-color:black;
+color:rgb(255, 200, 0);
 width: 418.27px;
+background-color: rgb(93, 0, 255);
 }
 
 .navbar {
-  background-color: red;
+  background-color: rgb(93, 0, 255);
   height: 70px;
   width: 100vw;
   position: fixed;
@@ -43,13 +40,13 @@ width: 418.27px;
 }
 
 .navbarText {
-  color: rgb(255, 255, 255);
+  color: rgb(255 , 200 , 0);
   margin-right: 25px;
   position: fixed;
 }
 
 .footer {
-  background-color:rgb(255, 0, 0);
+  background-color:rgb(93, 0, 255);
   height: 40px;
   width: 100vw;
   position: fixed;
@@ -67,7 +64,7 @@ width: 418.27px;
   display: flex;
   flex-direction: column;
   gap: 20px;
-  background-color: rgba(255, 0, 0, 0.384);
+  background-color: rgba(93, 0, 255, 0.299);
   width: 150px;
   color: black;
   margin-right: auto;
@@ -75,7 +72,7 @@ width: 418.27px;
 
 .homeLink {
   margin-top: 100px;
-  color: white;
+  color: rgb(255 , 200 , 0);
   font-weight: bold;
   margin-left: 5px;
   position: fixed;
@@ -83,7 +80,7 @@ width: 418.27px;
 
 .aboutLink {
   margin-top: 150px;
-  color: white;
+  color: rgb(255 , 200 , 0);
   margin-left: 5px;
   font-weight: bold;
   position: fixed;
@@ -101,22 +98,25 @@ width: 418.27px;
   display: flex;
   border-style: solid;
   border-width: 4px;
-  border-color: red;
+  border-color: rgb(255 , 200 , 0);
   width: 600px;
   margin: 30px;
+  background-color: rgb(93, 0, 255);
 }
 
 .deleteBtn {
   width: 600px;
-  background-color: red;
+  background-color: rgb(255, 0, 0);
   position: sticky;
   justify-content: center;
   border-radius: 0;
+  border-color: rgb(255, 200 ,0);
+  color:aliceblue;
 }
 
 .foodList {
   margin-top: 80px;
-  color: black;
+  color: rgb(255 , 200 , 0);
   margin-bottom: 50px;
   display: flex;
   flex-direction: column;
@@ -132,16 +132,26 @@ width: 418.27px;
   height:700px;
   display: flex;
   align-items: center;
+  justify-content: center;
   /* margin-right: 25px; */
 }
 
 .yesBut {
   display: flex;
-  color: white;
+  color: rgb(255 , 200 , 0);
   padding-right: 25px;
   padding-left: 25px;
-  background-color: red;
-  justify-content: right;
+  background-color: rgb(93, 0, 255);
+  justify-content: center;
   font-size: 56.320px;
   font-weight: bold;
+}
+
+.form {
+  display: flex;
+  color: black;
+}  
+
+.addButton {
+  color:black
 }

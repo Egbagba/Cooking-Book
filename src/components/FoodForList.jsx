@@ -1,26 +1,27 @@
 import React from "react";
 
 
-function FoodForList({ food, deleteItem, stepsItem}) {
+function FoodForList({ food, deleteItem }) {
   return (
     <div className = "listElement" key={food.id}>
       <div>
-        <h3>{food.name}</h3>
-        <h4>Time to prepare and cook: {food.timeToCook} minutes.</h4>
-        {food.ingredients && food.ingredients.length > 0 && (
+        <h3>Name of the Food: {food.name}</h3>
+        <h4>Items to cook: {food.items}</h4>
+        <h4>Seasoning: {food.seasoning}</h4>
+        <p>Steps:</p>
+        
+        {food.steps && food.steps.length > 0 && (
           <ul>
-            {food.ingredients.map((ingredient) => (
+            {food.steps.map((ingredient) => (
               <li key={ingredient.name}>
-                {ingredient.quantity} {ingredient.name}
+                {ingredient.items}
+                {ingredient.seasoning}
+                {ingredient.steps}
               </li>
             ))}
           </ul>
         )}
-        {food.timeToCook < 60 && <p>ready in a jiffy</p>}
-        {food.timeToCook >= 60 && food.timeToCook < 120 && <p>put some time aside</p>}
-        {food.timeToCook >= 120 && <p>best to plan ahead</p>}
         <button onClick={() => deleteItem(food.id)} className="deleteBtn" delete={deleteItem}>remove</button>
-        <button onClick={() => showSteps(food.id)} className="stepsBtn" steps={stepsItem}>steps</button>
       </div>
     </div>
   );
