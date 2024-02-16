@@ -6,8 +6,9 @@ import allTheFood from "../data/allFoodForList.json";
 function List() {
   const [foodItems, setFoodItems] = useState(allTheFood);
   const [newFoodName, setNewFoodName] = useState("");
-  const [newFoodItems, setNewFoodType] = useState("");
-  const [stepsInput, setStepsInput] = useState("");
+  const [newFoodItems, setNewFoodItems] = useState("");
+  const [newSeasoning , setNewSeasoning] = useState("");
+  const [steps, setSteps] = useState("");
   
   const deleteItem = (foodId) => {
     const filteredFood = foodItems.filter((food) => {
@@ -22,12 +23,14 @@ function List() {
       id: foodItems.length,
       name: newFoodName,
       items: newFoodItems,
+      seasoning: newSeasoning, 
       steps: [],
     };
     setFoodItems([...foodItems, newFoodItem]);
     setNewFoodName("");
-    setNewFoodType("");
-    setStepsInput("");
+    setNewFoodItems("");
+    setNewSeasoning("");
+    setSteps("");
   };
   
   return (
@@ -47,15 +50,24 @@ function List() {
           type="text"
           required
           value={newFoodItems}
-          onChange={(e) => setNewFoodType(e.target.value)}
+          onChange={(e) => setNewFoodItems(e.target.value)}
           placeholder="Enter food type"
         />
         <input
           className="foodBar"
+          type="text" 
+          required
+          value={newSeasoning}
+          onChange={(e) => setNewSeasoning(e.target.value)}
+          placeholder="Enter Seasoning"
+        />
+
+        <input
+          className="foodBar"
           type="text" // Keep the input type as "text" for steps
           required
-          value={stepsInput}
-          onChange={(e) => setStepsInput(e.target.value)}
+          value={steps}
+          onChange={(e) => setSteps(e.target.value)}
           placeholder="Enter Steps"
         />
         <button className="addButton" onClick={addItem}>Add Food</button>
