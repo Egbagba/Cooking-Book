@@ -6,7 +6,7 @@ import allTheFood from "../data/allFoodForList.json";
 function List() {
   const [foodItems, setFoodItems] = useState(allTheFood);
   const [newFoodName, setNewFoodName] = useState("");
-  const [newFoodItems, setNewFoodItems] = useState("");
+  const [newFoodItems, setNewFoodType] = useState("");
   const [stepsInput, setStepsInput] = useState("");
   
   const deleteItem = (foodId) => {
@@ -18,26 +18,22 @@ function List() {
 
   
   const addItem = () => {
-
-    //e.preventDefault()
-    
     const newFoodItem = {
       id: foodItems.length,
-      name:newFoodName,
-      items:newFoodItems,
+      name: newFoodName,
+      items: newFoodItems,
       steps: [],
     };
     setFoodItems([...foodItems, newFoodItem]);
     setNewFoodName("");
-    setNewFoodItems("");
-   setStepsInput("");
+    setNewFoodType("");
+    setStepsInput("");
   };
   
   return (
     <div className="foodList">
 
       <div className="form">
-        <form onSubmit= {addItem}>
         <input
           className="foodBar"
           type="text"
@@ -51,19 +47,18 @@ function List() {
           type="text"
           required
           value={newFoodItems}
-          onChange={(e) => setNewFoodItems(e.target.value)}
+          onChange={(e) => setNewFoodType(e.target.value)}
           placeholder="Enter food type"
         />
-         <input
+        <input
           className="foodBar"
           type="text" // Keep the input type as "text" for steps
           required
           value={stepsInput}
           onChange={(e) => setStepsInput(e.target.value)}
           placeholder="Enter Steps"
-        /> 
-        <button type="submit" >Add Food</button>
-        </form>
+        />
+        <button className="addButton" onClick={addItem}>Add Food</button>
       </div>
 
 
