@@ -6,8 +6,7 @@ import allTheFood from "../data/allFoodForList.json";
 function List() {
   const [foodItems, setFoodItems] = useState(allTheFood);
   const [newFoodName, setNewFoodName] = useState("");
-  const [newFoodType, setNewFoodType] = useState("");
-  const [timeToCookInput, setTimeToCookInput] = useState("");
+  const [newFoodItems, setNewFoodItems] = useState("");
   const [stepsInput, setStepsInput] = useState("");
   
   const deleteItem = (foodId) => {
@@ -19,25 +18,28 @@ function List() {
 
   
   const addItem = () => {
+
+    //e.preventDefault()
+    
     const newFoodItem = {
-      id: foodItems.length + 1,
-      name: newFoodName,
-      type: newFoodType,
-      timeToCook: timeToCookInput.trim(),
+      id: foodItems.length,
+      name:newFoodName,
+      items:newFoodItems,
       steps: [],
     };
     setFoodItems([...foodItems, newFoodItem]);
     setNewFoodName("");
-    setNewFoodType("");
-    setTimeToCookInput("");
-    setStepsInput("");
+    setNewFoodItems("");
+   setStepsInput("");
   };
   
   return (
     <div className="foodList">
 
       <div className="form">
+        <form onSubmit= {addItem}>
         <input
+          className="foodBar"
           type="text"
           required
           value={newFoodName}
@@ -45,27 +47,23 @@ function List() {
           placeholder="Enter food name"
         />
         <input
+          className="foodBar"
           type="text"
           required
-          value={newFoodType}
-          onChange={(e) => setNewFoodType(e.target.value)}
+          value={newFoodItems}
+          onChange={(e) => setNewFoodItems(e.target.value)}
           placeholder="Enter food type"
         />
-        <input
-          type="number" // Set type to number
-          required
-          value={timeToCookInput}
-          onChange={(e) => setTimeToCookInput(e.target.value)}
-          placeholder="Enter time to cook"
-        />
-        <input
+         <input
+          className="foodBar"
           type="text" // Keep the input type as "text" for steps
           required
           value={stepsInput}
           onChange={(e) => setStepsInput(e.target.value)}
-          placeholder="Enter ingredients"
-        />
-        <button className="addButton" onClick={addItem}>Add Food</button>
+          placeholder="Enter Steps"
+        /> 
+        <button type="submit" >Add Food</button>
+        </form>
       </div>
 
 

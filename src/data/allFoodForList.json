@@ -5,62 +5,62 @@
         "items": ["onion , ", " garlic , ", " butter , ", " cream , ", " Chicken "],
         "seasoning": ["garam masala , ", " salt , ", " termanid"],
         "steps": [
-            "1) Sotay the onions , garlic in butter untill light brown \n" , "\n" ,
-            "2) Once light brown then put all the seasoning and wait till oil came out \n" ,
-            "3) Now the final part put the Chicken in it and wait for 7 minutes \n" ,
-            "4) After 7 minutes is ready to serve"]
+            " Sotay the onions , garlic in butter untill light brown. " ,
+            " Once light brown then put all the seasoning and wait till oil came out. " ,
+            " Now the final part put the Chicken in it and wait for 7 minutes." ,
+            " After 7 minutes is ready to serve."]
     },
     {
         "id": 2,
         "name": " Nigeria Jollof rice",
-        "items": ["oil","butter","onions","red peppers","Chicken"] ,
-        "seasoning": ["Maggi cubes","salt","bayleaves","ginger","curry powder","thyme leaves"],
+        "items": ["oil , "," butter , "," onions , "," red peppers , "," Chicken"] ,
+        "seasoning": ["Maggi cubes , "," salt , "," bayleaves , "," ginger , "," curry powder , "," thyme leaves"],
         "steps": [
-            "1) Blend your tomatoes, red pepper, scotch bonnet peppers in a food processor or blender for about 45 seconds, make sure that everything is blended well.",
-            "2) In a medium sized pot, heat your oil on medium-high heat. Once the oil is heated add the onions you set aside and fry just until they turn golden brown. Once the onions, have turned brown in color add the tomato paste and fry for 2-3 minutes. Then add the blended tomato mixture (reserve about 1/4 cup and set aside) and fry the mixture with the onions and tomato paste for about 30 minutes. Make sure you stir consistently so that the tomato mixture does not burn.",
-            "3) After 30 minutes, turn the heat down to medium, and add the chicken stock. Mix and add your seasonings (salt, curry powder, thyme, all purpose seasoning, and the Knorr stock cube). Continue to boil for 10 minutes.",
-            "4) Add the parboiled rice to the pot. Mix it very well with the tomato stew. At this point if you need to add water so that the rice is level with the tomato mixture/chicken stock go ahead and do so. Add the bay leaves, cover the pot, and cook on medium to low heat for 15-30 minutes.",
-            "5) When the liquid has almost dried up add the remaining tomato stew, cover, and let it cook for another 5-10 minutes heat until the liquid has completely dried up. Turn off the heat, mix thoroughly, and your Jollof Rice is ready to be eaten!"
+            " Blend your tomatoes, red pepper, scotch bonnet peppers in a food processor or blender for about 45 seconds, make sure that everything is blended well.",
+            " In a medium sized pot, heat your oil on medium-high heat. Once the oil is heated add the onions you set aside and fry just until they turn golden brown. Once the onions, have turned brown in color add the tomato paste and fry for 2-3 minutes. Then add the blended tomato mixture (reserve about 1/4 cup and set aside) and fry the mixture with the onions and tomato paste for about 30 minutes. Make sure you stir consistently so that the tomato mixture does not burn.",
+            " After 30 minutes, turn the heat down to medium, and add the chicken stock. Mix and add your seasonings (salt, curry powder, thyme, all purpose seasoning, and the Knorr stock cube). Continue to boil for 10 minutes.",
+            " Add the parboiled rice to the pot. Mix it very well with the tomato stew. At this point if you need to add water so that the rice is level with the tomato mixture/chicken stock go ahead and do so. Add the bay leaves, cover the pot, and cook on medium to low heat for 15-30 minutes.",
+            " When the liquid has almost dried up add the remaining tomato stew, cover, and let it cook for another 5-10 minutes heat until the liquid has completely dried up. Turn off the heat, mix thoroughly, and your Jollof Rice is ready to be eaten!"
         ]
     },
     {
         "id": 3,
         "name": " India Tandoori Chicken",
-        "items": ["garlic","piece ginger","lemon juice","plain whole","skinless, boneless chicken thighs"],
-        "seasoning": ["ground coriander","turmeric","ground masala","cinnamon and nutmeg","smoked or sweet paprika"],
+        "items": ["garlic , "," piece ginger , "," lemon juice , "," plain whole , "," skinless, boneless chicken thighs"],
+        "seasoning": ["ground coriander , "," turmeric , "," ground masala , "," cinnamon and nutmeg , "," smoked or sweet paprika"],
         "steps": [
-            "1) In a small bowl, mix coriander, cumin, turmeric, garam masala, smoked paprika, sweet paprika, cayenne, cinnamon, cloves, and nutmeg until combined.",
-            "2) Spice mix can be made 6 months ahead. Transfer to an airtight container and store at room temperature.",
-            "3) In a blender or food processor, blend onion, ginger, garlic, lemon juice, and oil until smooth. Pour into a large bowl. Add yogurt, salt, and 1/4 cup tandoori masala and mix until combined.",
-            "4) Pat chicken dry with paper towels; season with salt. Using your hands, thoroughly rub marinade into chicken. Cover bowl with plastic wrap and refrigerate at least 8 hours or up to 24.",
-            "4) Preheat oven to 400˚. Set a wire rack in a large sheet pan. Arrange chicken on rack (no need to let excess marinade drip off).",
-            "5) Bake chicken until cooked through and an instant-read thermometer inserted into thickest part registers 165°, about 30 minutes. Heat broiler on low and broil until lightly charred, about 5 minutes.",
-            "6) Transfer chicken to a platter. Top with cilantro and serve with lime wedges alongside."
+            " In a small bowl, mix coriander, cumin, turmeric, garam masala, smoked paprika, sweet paprika, cayenne, cinnamon, cloves, and nutmeg until combined.",
+            " Spice mix can be made 6 months ahead. Transfer to an airtight container and store at room temperature.",
+            " In a blender or food processor, blend onion, ginger, garlic, lemon juice, and oil until smooth. Pour into a large bowl. Add yogurt, salt, and 1/4 cup tandoori masala and mix until combined.",
+            " Pat chicken dry with paper towels; season with salt. Using your hands, thoroughly rub marinade into chicken. Cover bowl with plastic wrap and refrigerate at least 8 hours or up to 24.",
+            " Preheat oven to 400˚. Set a wire rack in a large sheet pan. Arrange chicken on rack (no need to let excess marinade drip off).",
+            " Bake chicken until cooked through and an instant-read thermometer inserted into thickest part registers 165°, about 30 minutes. Heat broiler on low and broil until lightly charred, about 5 minutes.",
+            " Transfer chicken to a platter. Top with cilantro and serve with lime wedges alongside."
 
         ]
     },
     {
         "id": 4,
         "name": "Nigeria Meat Pie",
-        "items": ["Ground beaf or chicken","Plain Flour","unsalted Butter","eggs"],
-        "seasoning": ["Curry Powder","beef bullion cube or knorr","teaspoon of dried thyme","onions and cleaned carrots","potatoes and vegetable oil"],
+        "items": ["Ground beaf or chicken , "," Plain Flour , "," unsalted Butter , "," eggs"],
+        "seasoning": ["Curry Powder , "," beef bullion cube or knorr , "," teaspoon of dried thyme , "," onions and cleaned carrots , "," potatoes and vegetable oil"],
         "steps": [
-            "1) In a shallow mixing bowl, add flour, salt, sugar (if using) and butter and then rub together till all turn to crumbs",
-            "2) Add 100 ml of water and mix till all is combined. If the dough still needs water add a tablespoon of water at a time till you get well combined dough like in pix5",
-            "3) Set dough aside in a cool place or a fridge for 30 minutes then you move on to preparing the meaty filling.",
-            "4) Yes! Making the dough is that easy but remember, DO NOT overwork it when handling.",
-            "5) Place a pan on medium heat and add oil, heat for 2 minutes, add chopped onions and fry till onion is translucent. Add mince to the onion and stir mince till its brown then add curry powder, thyme, stock cube, a pinch of salt and stir till all combine. Reduce the heat if need be to avoid burning.",
-            "6) The fat from the mince should make the sauce juicy but if it looks dry, add a cooking spoon (100ml) of water to it. (decant oil if it is too much)",
-            "7) Add boiled potatoes and carrots, combine well and cook on a low heat for another 3-5 minutes.",
-            "8) The mince should be well cooked now. Now you move on to thickening the mince.",
-            "9) Add 2tbsp of flour to a bowl and mix with water to form a paste. Add the paste to the mince meat on the heat and combine well. Leave to cook for another minute. Take off the heat and allow to cool.",
-            "10) Preheat oven at 180C/350F, break the egg into a bowl, whisk and set aside, sprinkle a bit of flour on a plain, clean surface/worktop, divide dough into 2 or 3 places and roll out flat using a rolling pin.",
-            "11) Place a circle cutter on the flat dough and cut out into many circles you can get. use a makeshift if you don’t have a cutter. Repeat this process with the rest of the dough.",
-            "12) Add the meat filling to the centre of the circled dough, brush one half of the circle with whisked egg and carefully fold over the meat filling making sure the 2 edges touch one another. The aim of the egg is to seal the dough.",
-            "13) Close edges by pressing down with the tip of a fork ",
-            "14) Repeat this process for the remaining dough and filling. Place a foil in a baking tray and rub with oil this stops the pie from sticking to the tray when done. Alternatively use a parchment paper.",
-            "15) After you have completely filled the pastry, set on a baking tray, egg wash the top and pinch with a fork.",
-            "16) Place in the oven and bake for 20-30 minutes at 180C⁰/350F."
+            " In a shallow mixing bowl, add flour, salt, sugar (if using) and butter and then rub together till all turn to crumbs",
+            " Add 100 ml of water and mix till all is combined. If the dough still needs water add a tablespoon of water at a time till you get well combined dough like in pix5",
+            " Set dough aside in a cool place or a fridge for 30 minutes then you move on to preparing the meaty filling.",
+            " Yes! Making the dough is that easy but remember, DO NOT overwork it when handling.",
+            " Place a pan on medium heat and add oil, heat for 2 minutes, add chopped onions and fry till onion is translucent. Add mince to the onion and stir mince till its brown then add curry powder, thyme, stock cube, a pinch of salt and stir till all combine. Reduce the heat if need be to avoid burning.",
+            " The fat from the mince should make the sauce juicy but if it looks dry, add a cooking spoon (100ml) of water to it. (decant oil if it is too much)",
+            " Add boiled potatoes and carrots, combine well and cook on a low heat for another 3-5 minutes.",
+            " The mince should be well cooked now. Now you move on to thickening the mince.",
+            " Add 2tbsp of flour to a bowl and mix with water to form a paste. Add the paste to the mince meat on the heat and combine well. Leave to cook for another minute. Take off the heat and allow to cool.",
+            " Preheat oven at 180C/350F, break the egg into a bowl, whisk and set aside, sprinkle a bit of flour on a plain, clean surface/worktop, divide dough into 2 or 3 places and roll out flat using a rolling pin.",
+            " Place a circle cutter on the flat dough and cut out into many circles you can get. use a makeshift if you don’t have a cutter. Repeat this process with the rest of the dough.",
+            " Add the meat filling to the centre of the circled dough, brush one half of the circle with whisked egg and carefully fold over the meat filling making sure the 2 edges touch one another. The aim of the egg is to seal the dough.",
+            " Close edges by pressing down with the tip of a fork ",
+            " Repeat this process for the remaining dough and filling. Place a foil in a baking tray and rub with oil this stops the pie from sticking to the tray when done. Alternatively use a parchment paper.",
+            " After you have completely filled the pastry, set on a baking tray, egg wash the top and pinch with a fork.",
+            " Place in the oven and bake for 20-30 minutes at 180C⁰/350F."
             
         ]
 
@@ -68,126 +68,126 @@
     {
         "id": 5,
         "name": " India Vegetable Biryani",
-        "items": ["Basmatic rice","whole milk","saffon threads","green cardamom pods","kosher salt","bay leaf"],
-        "seasoning": ["ghee or neutral oil","garam masala","cumin seeds","freshly ground black pepper","small cauliflower florets"],
+        "items": ["Basmatic rice , "," whole milk , "," saffon threads , "," green cardamom pods , "," kosher salt , "," bay leaf"],
+        "seasoning": ["ghee or neutral oil , "," garam masala , "," cumin seeds , "," freshly ground black pepper , "," small cauliflower florets"],
         "steps": [
-            "1) Rinse rice, then transfer to a medium bowl. Cover with water and soak 30 minutes.",
-            "2) Meanwhile, in a medium pot over medium heat, heat milk until warmed through. Remove from heat and stir in saffron. Let steep until ready to use.",
-            "3) Drain rice and transfer to a medium pot. Add cardamom, cloves, cinnamon, bay leaf, salt, cumin, and 1 1/2 cups cold water. Bring to boil, then cover and cook over low heat until liquid is evaporated and rice is tender, 10 to 12 minutes.",
-            "4) Remove pot from heat. Discard cardamom, cloves, cinnamon, and bay leaf. Fluff rice with a fork; set aside until ready to use."
+            " Rinse rice, then transfer to a medium bowl. Cover with water and soak 30 minutes.",
+            " Meanwhile, in a medium pot over medium heat, heat milk until warmed through. Remove from heat and stir in saffron. Let steep until ready to use.",
+            " Drain rice and transfer to a medium pot. Add cardamom, cloves, cinnamon, bay leaf, salt, cumin, and 1 1/2 cups cold water. Bring to boil, then cover and cook over low heat until liquid is evaporated and rice is tender, 10 to 12 minutes.",
+            " Remove pot from heat. Discard cardamom, cloves, cinnamon, and bay leaf. Fluff rice with a fork; set aside until ready to use."
         ]
     },
     {
         "id": 6,
         "name": "Nigeria Pepper Soup",
-        "items": ["Goat meat","water","ground crayfish","table salt","Nigeria red pepper or cayenne pepper","boiled yam-plaintain-sweetpotatoes"],
-        "seasoning": ["lemongrass leaves","fresh lime leaves","scent leafs","maggi cubes","salt","biiter leaves"],
+        "items": ["Goat meat , "," water , "," ground crayfish , "," table salt , "," Nigeria red pepper or cayenne pepper , "," boiled yam-plaintain-sweetpotatoes"],
+        "seasoning": ["lemongrass leaves , "," fresh lime leaves , "," scent leafs , "," maggi cubes , "," salt , "," biiter leaves"],
         "steps": [
-            "1) You can substitute dry ginger powder for fresh ginger if you choose.",
-            "2) The amount of peppers you add to the pepper soup depends on your heat tolerance so feel free to increase or reduce the quantity of peppers you use.",
-            "3) You can substitute Uziza leaves or bitter leaves with Parsley, mint leaves, or scent leaves; Be sure to wash bitter leaves and drain them when used.",
-            "4) You can use any Meat in this recipe. However, you can also Chicken, Lamb, Beef, Goat meat or Fish.",
-            "5) So cut the goat meat  or any into cutlets because it cooks faster. You can also easily pick it up with a spoon and eat it right away. If You are comfortable with chunky meat in your pepper soup please go with it but it might need to cook for a longer time.",
-            "6) To avoid chunks of Onions in your pepper soup, it is a good idea to either mince the Onion or use the smaller hole on the grater to grate the Onion. I like to use the latter in my pepper soup.",
-            "7) Cut the Goat meat into cutlets (see note 4). Then rinse thoroughly, transfer the meat into the Pot, add salt, Seasoning cube, habanero peppers and half of the Onion (see note 5) and cook for 30 minutes.",
-            "8) Add the pepper soup spice, red chili flakes, Ginger powder, the remaining grated onion, and crayfish. Leave it to cook for another 10 minutes.",
-            "9) Stir in the uziza leaves and let it simmer for another 5 minutes. Serve hot with Yam, Rice, Bread and more."  
+            " You can substitute dry ginger powder for fresh ginger if you choose.",
+            " The amount of peppers you add to the pepper soup depends on your heat tolerance so feel free to increase or reduce the quantity of peppers you use.",
+            " You can substitute Uziza leaves or bitter leaves with Parsley, mint leaves, or scent leaves; Be sure to wash bitter leaves and drain them when used.",
+            " You can use any Meat in this recipe. However, you can also Chicken, Lamb, Beef, Goat meat or Fish.",
+            " So cut the goat meat  or any into cutlets because it cooks faster. You can also easily pick it up with a spoon and eat it right away. If You are comfortable with chunky meat in your pepper soup please go with it but it might need to cook for a longer time.",
+            " To avoid chunks of Onions in your pepper soup, it is a good idea to either mince the Onion or use the smaller hole on the grater to grate the Onion. I like to use the latter in my pepper soup.",
+            " Cut the Goat meat into cutlets (see note . Then rinse thoroughly, transfer the meat into the Pot, add salt, Seasoning cube, habanero peppers and half of the Onion (see note  and cook for 30 minutes.",
+            " Add the pepper soup spice, red chili flakes, Ginger powder, the remaining grated onion, and crayfish. Leave it to cook for another 10 minutes.",
+            " Stir in the uziza leaves and let it simmer for another 5 minutes. Serve hot with Yam, Rice, Bread and more."  
         ]
     },
     {
         "id": 7,
         "name": "India Saag Paneer",
-        "items": ["water","canola or vegetable oil","extra firm-tofu","small red onion, roughly shaped","slices fresh ginger"],
-        "seasoning": ["green serrano chile, seeds and white vein","canned tomato sauce","turmeric","kosher salt","baby spinach","heavy cream","garam masala"],
+        "items": ["water , "," canola or vegetable oil , "," extra firm-tofu , "," small red onion, roughly shaped , "," slices fresh ginger"],
+        "seasoning": ["green serrano chile, seeds and white vein , "," canned tomato sauce , "," turmeric , "," kosher salt , "," baby spinach , "," heavy cream , "," garam masala"],
         "steps": [
-            "1) In a large nonstick or cast-iron skillet, heat 2 tablespoons oil over medium heat until it shimmers. Add the paneer in one layer and cook until brown on one side, about 2 minutes. Flip and cook until brown on the other side, another 2 minutes. (The paneer will splatter, so be careful!)  Transfer the paneer to a bowl filled with hot tap water to help keep it soft.",
-            "2) Pulse the onion, ginger, garlic, and chile in a food processor until minced. (You may need to add a bit of water to the processor.)",
-            "3) In a large Dutch oven or saucepan, heat the remaining oil over medium heat until it shimmers. Add the onion paste and cook until light brown and some of it sticks to the bottom of the pan, about 2 minutes.",
-            "4) Stir in the tomato sauce, coriander, cumin, cayenne, turmeric, and salt. Lower the heat and simmer, partially covered, for about 8 minutes.",
-            "5) Add spinach and cook, covered, until wilted, about 4 minutes. Stir in the water and simmer, covered, until spinach turns a pale green color, about 15 minutes.",
-            "6) Drain the paneer and add it to the spinach, along with the cream and garam masala. Continue to simmer the curry, covered, stirring occasionally, about 5 minutes.",
-            "7) Serve warm alongside cooked rice or naan."
+            " In a large nonstick or cast-iron skillet, heat 2 tablespoons oil over medium heat until it shimmers. Add the paneer in one layer and cook until brown on one side, about 2 minutes. Flip and cook until brown on the other side, another 2 minutes. (The paneer will splatter, so be careful!)  Transfer the paneer to a bowl filled with hot tap water to help keep it soft.",
+            " Pulse the onion, ginger, garlic, and chile in a food processor until minced. (You may need to add a bit of water to the processor.)",
+            " In a large Dutch oven or saucepan, heat the remaining oil over medium heat until it shimmers. Add the onion paste and cook until light brown and some of it sticks to the bottom of the pan, about 2 minutes.",
+            " Stir in the tomato sauce, coriander, cumin, cayenne, turmeric, and salt. Lower the heat and simmer, partially covered, for about 8 minutes.",
+            " Add spinach and cook, covered, until wilted, about 4 minutes. Stir in the water and simmer, covered, until spinach turns a pale green color, about 15 minutes.",
+            " Drain the paneer and add it to the spinach, along with the cream and garam masala. Continue to simmer the curry, covered, stirring occasionally, about 5 minutes.",
+            " Serve warm alongside cooked rice or naan."
         ]
     },
     {
         "id": 8,
         "name": "Nigeria Akara",
-        "items": ["water","black eyed beans or brown beans","scotch bonnet/habanero-rodo","brown or red onion","vegetable, sunflower or plain oil for frying"],
-        "seasoning": ["maggi cubes","salt","onion","red or cayenne pepper"],
+        "items": ["water , "," black eyed beans or brown beans , "," scotch bonnet/habanero-rodo , "," brown or red onion , "," vegetable, sunflower or plain oil for frying"],
+        "seasoning": ["maggi cubes , "," salt , "," onion , "," red or cayenne pepper"],
         "steps": [
-            "1) Peel the beans. The easiest way of doing this is by using blender. click to know.",
-            "2) Blend the peeled beans with the scotch bonnet, bell pepper and onion. It's important you do not add too much water to blend as what you want is a thick paste for the akara so blend with as little water as possible.",
-            "3) Pour the blended beans in a bowl, add maggi cube and salt to taste and mix thoroughly.",
-            "4) If you like the inside of your akara fluffy, then use a mixer and whip for 10 minutes.",
-            "5) Pour the vegetable, sunflower or palmoil in a frying pan and put on stove. You need it deep fried so make sure you have enough oil in the frying pan.",
-            "6) When oil is heated start scooping in the bean paste. For this i usually use a small cooking spoon which is just slightly bigger than a tablespoon.",
-            "7) To know if your oil is heated enough drop a tiny bit of the paste in the oil. If it floats to the top then the oil is ready .",
-            "9) When a side is done, flip to the other side, fry both sides till it's brown and when done remove from oil and put on a paper towel to get rid of excess oil,serve with pap (ogi) or custard. It can also be eaten with bread. On this occasion I had mine with pap.",
-            "10) Take Note,,, Soak peeled beans in water for up to 6 hours before blending, This make blending easier plus it gives fluffier akara, Blend with little water. If using home blender, put onion and peppers at the bottom of the blender before adding beans. That way they blen first and provide more juice for the beans to blend in wothout use of excess water,For fluffy inside, mix the bean paste with hand or stand mixer till it's light and fluffy before frying."
+            " Peel the beans. The easiest way of doing this is by using blender. click to know.",
+            " Blend the peeled beans with the scotch bonnet, bell pepper and onion. It's important you do not add too much water to blend as what you want is a thick paste for the akara so blend with as little water as possible.",
+            " Pour the blended beans in a bowl, add maggi cube and salt to taste and mix thoroughly.",
+            " If you like the inside of your akara fluffy, then use a mixer and whip for 10 minutes.",
+            " Pour the vegetable, sunflower or palmoil in a frying pan and put on stove. You need it deep fried so make sure you have enough oil in the frying pan.",
+            " When oil is heated start scooping in the bean paste. For this i usually use a small cooking spoon which is just slightly bigger than a tablespoon.",
+            " To know if your oil is heated enough drop a tiny bit of the paste in the oil. If it floats to the top then the oil is ready .",
+            " When a side is done, flip to the other side, fry both sides till it's brown and when done remove from oil and put on a paper towel to get rid of excess oil,serve with pap (ogi) or custard. It can also be eaten with bread. On this occasion I had mine with pap.",
+            " Take Note,,, Soak peeled beans in water for up to 6 hours before blending, This make blending easier plus it gives fluffier akara, Blend with little water. If using home blender, put onion and peppers at the bottom of the blender before adding beans. That way they blen first and provide more juice for the beans to blend in wothout use of excess water,For fluffy inside, mix the bean paste with hand or stand mixer till it's light and fluffy before frying."
         ]
     },
     {
         "id": 9,
         "name": "Papdi Chaat",
-        "items": ["ghee or butter","ajwain seeds","nigella seeds","white sesame seeds","whole-wheat flour"],
-        "seasoning": ["black salt","water","vegetable oil"],
+        "items": ["ghee or butter , "," ajwain seeds , "," nigella seeds , "," white sesame seeds , "," whole-wheat flour"],
+        "seasoning": ["black salt , "," water , "," vegetable oil"],
         "steps": [
-            "1) In a medium pan over medium-low heat, melt ghee. Add in seeds and toast, swirling pan occasionally until white sesame seeds are lightly golden, about 1 minute. Remove from heat and let cool.",
-            "2) In a large bowl, mix together flours and salt. Stir in cooled ghee mixture and use your fingers to work the ghee evenly into the flour mixture.Stir in water and knead into a cohesive ball of dough. Cover and let rest for 30 minutes to 1 hour.",
-            "3) Halve dough, then roll each piece to about ⅛” in thickness. Prick dough all over with a fork, then cut out rounds using a 2” cookie cutter. Transfer to a baking sheet or large plate lined with parchment. Repeat with remaining dough. Reroll all scraps together into another sheet to punch out more rounds (or fry as is for snacking!).",
-            "4) Meanwhile, in a large pot on medium heat, heat 1” of vegetable oil to between 350° and 375°. ",
-            "5) Being sure not to overcrowd the pan, fry papdi in batches, stirring occasionally, until evenly golden, about 3 minutes. Reduce heat to low if papdis are turning dark gold too soon. Transfer to a paper towel-lined plate and repeat with remaining papdi."
+            " In a medium pan over medium-low heat, melt ghee. Add in seeds and toast, swirling pan occasionally until white sesame seeds are lightly golden, about 1 minute. Remove from heat and let cool.",
+            " In a large bowl, mix together flours and salt. Stir in cooled ghee mixture and use your fingers to work the ghee evenly into the flour mixture.Stir in water and knead into a cohesive ball of dough. Cover and let rest for 30 minutes to 1 hour.",
+            " Halve dough, then roll each piece to about ⅛” in thickness. Prick dough all over with a fork, then cut out rounds using a 2” cookie cutter. Transfer to a baking sheet or large plate lined with parchment. Repeat with remaining dough. Reroll all scraps together into another sheet to punch out more rounds (or fry as is for snacking!).",
+            " Meanwhile, in a large pot on medium heat, heat 1” of vegetable oil to between 350° and 375°. ",
+            " Being sure not to overcrowd the pan, fry papdi in batches, stirring occasionally, until evenly golden, about 3 minutes. Reduce heat to low if papdis are turning dark gold too soon. Transfer to a paper towel-lined plate and repeat with remaining papdi."
         ]
     },
     {
         "id": 10,
         "name": "Nigeria Fried Rice",
-        "items": ["Your choice of rice","sliced cabbage","sliced carrot","sliced green beans","peas","green pepper","onion"],
-        "seasoning": ["cow-meat liver","chicken","vegetable oil","sliced onions","curry powder","salt", "Eggs"],
+        "items": ["Your choice of rice , "," sliced cabbage , "," sliced carrot , "," sliced green beans , "," peas , "," green pepper , "," onion"],
+        "seasoning": ["cow-meat liver , "," chicken , "," vegetable oil , "," sliced onions , "," curry powder , "," salt , ", " Eggs"],
         "steps": [
-            "1) Chop and Prepare the Ingredients",
-            "2) Season the Meat and Prepare the Egg and Rice",
-            "3) Add the boiled rice to the stock in a medium pot and cook on medium heat until the water is dried up",
-            "4) Preheat the oil in a pan on medium to high heat, throw in the onions, and fry for a minute or two; add the scallions, mixed vegetables, thyme, curry powder, salt, and stock Cube.",
-            "5) Throw in the beef liver and rice — Stir-fry for about 3 to 5 minutes on high heat.",
-            "6) Take it off the heat and serve.",
-            "7) Please take note, the white rice should be cooked tender but still firm to bite (like you cook your pasta al-dente). Overcooking the rice will result in mushy fried rice",
-            "8) Fried rice is best enjoyed when the Veggies remain crunchy, so do not overcook your veggies.",
-            "9) You need to increase the heat and stir continuously to get that nice coveted crisp during frying."
+            " Chop and Prepare the Ingredients",
+            " Season the Meat and Prepare the Egg and Rice",
+            " Add the boiled rice to the stock in a medium pot and cook on medium heat until the water is dried up",
+            " Preheat the oil in a pan on medium to high heat, throw in the onions, and fry for a minute or two; add the scallions, mixed vegetables, thyme, curry powder, salt, and stock Cube.",
+            " Throw in the beef liver and rice — Stir-fry for about 3 to 5 minutes on high heat.",
+            " Take it off the heat and serve.",
+            " Please take note, the white rice should be cooked tender but still firm to bite (like you cook your pasta al-dente). Overcooking the rice will result in mushy fried rice",
+            " Fried rice is best enjoyed when the Veggies remain crunchy, so do not overcook your veggies.",
+            " You need to increase the heat and stir continuously to get that nice coveted crisp during frying."
         ]
     
     },
     {
         "id": 11,
         "name": "India Mulligatawny Soup",
-        "items": ["unsalted butter","medium onions, finely chopped","large carrot","celery stalk","red serrano","kosher salt","black powder","cloves garlic","ginger minced","curry powder","cumin, coriander & turmeric"],
-        "seasoning": ["Granny smith apple, peeled","low-sodium vegetable stock","bay leaves","can chickpeas, drained & rinsed","plain, full-fat greek yoghurt","lemon juice","freshly chopped cilantro for garnish"],
+        "items": ["unsalted butter , "," medium onions, finely chopped , "," large carrot , "," celery stalk , "," red serrano , "," kosher salt , "," black powder , "," cloves garlic , "," ginger minced , "," curry powder , "," cumin, coriander & turmeric"],
+        "seasoning": ["Granny smith apple, peeled , "," low-sodium vegetable stock , "," bay leaves , "," can chickpeas, drained & rinsed , "," plain, full-fat greek yoghurt , "," lemon juice , "," freshly chopped cilantro for garnish"],
         "steps": [
-            "1) In a large Dutch oven over medium-high heat, melt butter until it stops foaming, Add onions, carrot, celery, and red chile, and season with ½ tsp of salt and ¼ teaspoon pepper. Cook for about 6 to 7 minutes, or until onions are translucent and the vegetables are starting to brown lightly on the edges.",
-            "2) Add garlic and ginger and cook, stirring constantly, for 1 minute. Stir in spices and ½ teaspoon salt and cook for another 30 seconds. Reduce heat to medium and stir in apple until completely coated.",
-            "3) Rinse lentils in a fine mesh strainer and shake off excess water. Stir in lentils, vegetable stock, and bay leaves. Increase heat to medium high and bring to a boil, then reduce to a simmer and cook, covered, for 30 minutes.",
-            "4) Discard bay leaves. Using an immersion blender (or transfer to a regular blender in batches), blend until smooth. (It should be smooth but not like baby food; a few bits of texture are okay.)",
-            "5) Add chickpeas and 2 ½ tsp of salt, and simmer, covered, for 15 minutes or until chickpeas are heated through and completely tender.",
-            "6) Meanwhile, combine yogurt and lemon juice in a small bowl.",
-            "7) When chickpeas are done simmering, stir in yogurt mixture until no more streaks of white remain.",
-            "8) Garnish with cilantro, lemon wedges and more yogurt, if desired. Serve with steamed basmati rice or a side of garlicky naan."
+            " In a large Dutch oven over medium-high heat, melt butter until it stops foaming, Add onions, carrot, celery, and red chile, and season with ½ tsp of salt and ¼ teaspoon pepper. Cook for about 6 to 7 minutes, or until onions are translucent and the vegetables are starting to brown lightly on the edges.",
+            " Add garlic and ginger and cook, stirring constantly, for 1 minute. Stir in spices and ½ teaspoon salt and cook for another 30 seconds. Reduce heat to medium and stir in apple until completely coated.",
+            " Rinse lentils in a fine mesh strainer and shake off excess water. Stir in lentils, vegetable stock, and bay leaves. Increase heat to medium high and bring to a boil, then reduce to a simmer and cook, covered, for 30 minutes.",
+            " Discard bay leaves. Using an immersion blender (or transfer to a regular blender in batches), blend until smooth. (It should be smooth but not like baby food; a few bits of texture are okay.)",
+            " Add chickpeas and 2 ½ tsp of salt, and simmer, covered, for 15 minutes or until chickpeas are heated through and completely tender.",
+            " Meanwhile, combine yogurt and lemon juice in a small bowl.",
+            " When chickpeas are done simmering, stir in yogurt mixture until no more streaks of white remain.",
+            " Garnish with cilantro, lemon wedges and more yogurt, if desired. Serve with steamed basmati rice or a side of garlicky naan."
         ]
     },
     {
         "id": 12,
         "name": "Nigeria Puff Puff",
-        "items": [" 200g Plain flour","70g suger","1 table spoon of salt","`160ml lukewarm water"],
-        "seasoning": ["1 table spoon of dry yeast","I table spoon of nutmeg","sunflower oil for frying"],
+        "items": [" 200g Plain flour , "," 70g suger , "," 1 table spoon of salt , "," `160ml lukewarm water"],
+        "seasoning": ["1 table spoon of dry yeast , "," I table spoon of nutmeg , "," sunflower oil for frying"],
         "steps": [
-            "1) In a mixing bowl, mix flour, sugar, salt and nutmeg.",
-            "2) In a small bowl mix the water with a teaspoon of sugar, add the yeast and stir well. Leave it for 5-10minutes to activate.",
-            "3) At the end of the 10 minutes the yeast mixture should have foamed. If this doesn't happen, discard it and try again.",
-            "4) Pour the yeast mixture into the flour mixture and mix thoroughly.",
-            "5) Cover with cling film or towel and leave to rise for 90-120 minutes or till it doubles in size.",
-            "6) Pour oil into a deep pan. The oil should be atleast 3inches deep. Let the oil heat up and scoop the batter into the oil with your hand. You can also use ice cream scoop.",
-            "7) Test the oil by dropping a bit of batter in it. If it rises up after few seconds then the oil is ready.",
-            "8) Flip the  batter till it's golden brown. Place on kitchen towel to drain excess oil.",
-            "9) Best served warm."
+            " In a mixing bowl, mix flour, sugar, salt and nutmeg.",
+            " In a small bowl mix the water with a teaspoon of sugar, add the yeast and stir well. Leave it for 5-10minutes to activate.",
+            " At the end of the 10 minutes the yeast mixture should have foamed. If this doesn't happen, discard it and try again.",
+            " Pour the yeast mixture into the flour mixture and mix thoroughly.",
+            " Cover with cling film or towel and leave to rise for 90-120 minutes or till it doubles in size.",
+            " Pour oil into a deep pan. The oil should be atleast 3inches deep. Let the oil heat up and scoop the batter into the oil with your hand. You can also use ice cream scoop.",
+            " Test the oil by dropping a bit of batter in it. If it rises up after few seconds then the oil is ready.",
+            " Flip the  batter till it's golden brown. Place on kitchen towel to drain excess oil.",
+            " Best served warm."
         ]
     }
 ]

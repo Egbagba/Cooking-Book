@@ -149,9 +149,12 @@ background-color: rgb(93, 0, 255);
 
 .form {
   display: flex;
-  color: black;
+  border: solid 3px ;
+  border-color: rgb(255 , 200 , 0);
+  width: 555px;
 }  
 
 .addButton {
-  color:black
+  background-color: red;
+  color:white
 }

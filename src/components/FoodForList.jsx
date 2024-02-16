@@ -1,7 +1,7 @@
 import React from "react";
 
 
-function FoodForList({ food, deleteItem }) {
+function FoodForList({ food , deleteItem }) {
   return (
     <div className = "listElement" key={food.id}>
       <div>
@@ -13,15 +13,13 @@ function FoodForList({ food, deleteItem }) {
         {food.steps && food.steps.length > 0 && (
           <ul>
             {food.steps.map((ingredient) => (
-              <li key={ingredient.name}>
-                {ingredient.items}
-                {ingredient.seasoning}
-                {ingredient.steps}
+              <li key={ingredient.id}>
+                {ingredient}
               </li>
             ))}
           </ul>
         )}
-        <button onClick={() => deleteItem(food.id)} className="deleteBtn" delete={deleteItem}>remove</button>
+        <button onClick={() => deleteItem(food.id)} className="deleteBtn" delete={deleteItem}>Delete</button>
       </div>
     </div>
   );

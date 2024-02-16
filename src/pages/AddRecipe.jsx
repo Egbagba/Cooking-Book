@@ -11,10 +11,12 @@ function AddRecipe() {
     const [stepsInput, setStepsInput] = useState("");
 
     const addItem = () => {
+        e.preventDefault()
+
         const newFoodItem = {
             id: foodItems.length + 1,
-            name: newFoodName,
-            type: newFoodType,
+            newFoodName,
+            newFoodType,
             timeToCook: timeToCookInput.trim(),
             steps: [],
         };
